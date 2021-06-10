@@ -24,3 +24,6 @@
   ]
 }
 ```
+
+### 組織
+![帳目與帳項](https://github.com/YauHsien/accounting/blob/v0dev/v0/design/account_n_entry.png "帳目與帳項")
