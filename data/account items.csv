@@ -1,0 +1,617 @@
+1,資產,Assets,指因過去事項所產生之資源，該資源由商業控制，並預期帶來經濟效益之流入。,The resources controlled by the business entity as a result of past events and from which future economic benefits are expected to flow to the business entity.
+"11-
+12",流動資產,Current assets,指商業預期於其正常營業週期中實現、意圖出售或消耗之資產、主要為交易目的而持有之資產、預期於資產負債表日後十二個月內實現之資產、現金或約當現金，但不包括於資產負債表日後逾十二個月用以交換、清償負債或受有其他限制者。,"The current assets that the business entity expects to realize, or intends to sell or consume, in its normal operating cycle; holds the asset primarily for the purpose of trading; expects to realize the asset within twelve months after the date of statement of financial position; the asset is cash or a cash equivalent. Unless the asset is restricted from being exchanged or used to settle a liability for at least twelve months after the date of statement of financial position."
+111,現金及約當現金,Cash and cash equivalents,指庫存現金、活期存款及可隨時轉換成定額現金且價值變動風險甚小之短期並具高度流動性之定期存款或投資。,"Cash on hand, demand deposits, and short-term, highly liquid certificate deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value."
+1111,庫存現金,Cash on hand,,
+1112,零用金／週轉金,Petty cash / revolving funds,,
+1113,銀行存款,Cash in banks,,
+1114,在途現金,Cash in transit,,
+1115,約當現金,Cash equivalents,,
+112,透過損益按公允價值衡量之金融資產—流動,Current financial assets at fair value through profit or loss,包括指定為透過損益按公允價值衡量之金融資產—流動、持有供交易之金融資產—流動、備供出售金融資產—流動、避險之衍生金融資產—流動、以成本衡量之金融資產—流動、無活絡市場之債券投資—流動及持有至到期日金融資產—流動。,"Including current financial assets designation as at fair value through profit or loss, current financial assets held for trading, current available-for-sale financial assets, current derivative financial assets for hedging, current financial assets at cost, current investments in debt instrument without active market, and current held-to-maturity financial assets."
+1121,指定為透過損益按公允價值衡量之金融資產—流動,Current financial assets designation as at fair value through profit or loss,,
+1122,指定為透過損益按公允價值衡量之金融資產評價調整—流動,Adjustments for change in value of current financial assets designation as at fair value through profit or loss,,
+1123,持有供交易之金融資產—流動,Current financial assets held for trading,,
+1124,持有供交易之金融資產評價調整—流動,Adjustments for change in value of current financial assets held for trading,,
+113,備供出售金融資產—流動,Current available-for-sale financial assets,,
+1131,備供出售金融資產—流動,Current available-for-sale financial assets,,
+1132,備供出售金融資產評價調整—流動,Adjustments for change in value of current available-for-sale financial assets,,
+1133,累計減損—備供出售金融資產—流動,"Accumulated impairment, current available-for-sale financial assets",,
+114,以成本衡量之金融資產—流動,Current financial assets at cost,,
+1141,以成本衡量之金融資產—流動,Current financial assets at cost,,
+1142,累計減損—以成本衡量之金融資產—流動,"Accumulated impairment, current financial assets at cost",,
+115,無活絡市場之債務工具投資－流動,Current investments in debt instrument without active market,,
+1151,無活絡市場之債務工具投資－流動,Current investments in debt instrument without active market,,
+1152,累計減損—無活絡市場之債務工具投資－流動,"Accumulated impairment, current investments in debt instrument without active market",,
+116,持有至到期日金融資產－流動,Current held-to-maturity financial assets,,
+1161,持有至到期日金融資產－流動,Current held-to-maturity financial assets,,
+1162,累計減損—持有至到期日金融資產－流動,"Accumulated impairment, current held-to-maturity financial assets",,
+117,避險之衍生金融資產—流動,Current derivative financial assets for hedging,,
+1171,避險之衍生金融資產—流動,Current derivative financial assets for hedging,,
+1172,避險之衍生金融資產評價調整—流動,Adjustments for change in value of current derivative financial assets for hedging,,
+118,應收票據淨額,"Notes receivable, net",指商業應收之各種票據。,The various notes which are collected by the business entity.
+1181,應收票據,Notes receivable,,
+1182,應收票據貼現,Discounted notes receivable,,
+1183,應收票據－關係人,Notes receivable due from related parties,,
+1184,其他應收票據,Other notes receivable,,
+1185,備抵呆帳－應收票據,Allowance for uncollectible notes receivable,,
+1186,應收票據貼現－關係人,Discounted notes receivable due from related parties,,
+1187,其他應收票據－關係人,Other notes receivable due from related parties,,
+1188,備抵呆帳－應收關係人票據,Allowance for uncollectible notes receivable due from related parties,,
+119,應收帳款淨額,"Accounts receivable, net",指商業因出售商品或勞務等而發生之債權。,The claim of the business entity resulting from sale of goods or services.
+1191,應收帳款,Accounts receivable,,
+1192,備抵銷售退回及折讓,Allowance for sales returns and discounts,,
+1193,應收分期帳款,Installment accounts receivable,,
+1194,未實現利息收入,Unrealized interest income,,
+1195,應收租賃款,Lease payments receivable,,
+1196,未賺得融資收益,Unearned finance income ,,
+1197,應收帳款－關係人,Accounts receivable due from related parties,,
+1198,備抵呆帳－應收租賃款,Allowance for uncollectible lease payments receivable,,
+1199,備抵呆帳－應收帳款及分期帳款,Allowance for uncollectible accounts receivable and installment accounts receivables ,,
+119A,應收分期帳款－關係人,Installment accounts receivable due from related parties,,
+119B,未實現利息收入－關係人,Unrealized interest income due from related parties,,
+119C,應收租賃款－關係人,Lease payments receivable due from related parties,,
+119D,未賺得融資收益－關係人,Unearned finance income due from related parties,,
+119E,備抵呆帳－應收關係人款項及分期帳款,Allowance for uncollectible accounts receivable and installment accounts receivable due from related parties,,
+119F,備抵呆帳－應收關係人租賃款,Allowance for uncollectible lease payments receivable due from related parties,,
+120,應收建造合約款,Construction contracts receivable,,
+1201,應收建造合約款,Construction contracts receivable,,
+1202,應收建造合約款－關係人,Construction contracts receivable due from related parties,,
+121,其他應收款,Other receivables,指不屬於應收票據、應收帳款及應收建造合約款之應收款項。,"The receivables that do not belong to the notes receivable, accounts receivable, and construction contracts receivable."
+1211,應收收益,Non-operating revenues receivable,,
+1212,其他應收款－關係人,Other receivables due from related parties,,
+1213,其他應收款－其他,"Other non-operating receivables, others",,
+1214,備抵呆帳－其他應收款,Allowance for uncollectible other non-operating receivables,,
+1215,備抵呆帳－其他應收關係人款,Allowance for uncollectible other receivables due from related parties,,
+122,本期所得稅資產,Current tax assets,指已支付所得稅金額超過本期及前期應付金額之部分。,The portion of the tax amount already paid in respect of current and prior periods that exceed the amount due for those periods.
+1221,應收所得稅退稅款,Income tax refund receivable,,
+1222,預付所得稅,Prepaid income tax,,
+123-124,存貨,Inventories,指持有供正常營業過程出售者；或正在製造過程中以供正常營業過程出售者；或將於製造過程或勞務提供過程中消耗之原料或物料。,The held for sale in the ordinary course of business; or in the process of production for sale in the ordinary course of business; or in the form of materials or supplies to be consumed in the production process or in the rendering of services.
+1231,商品存貨,Merchandise inventory,,
+1232,寄銷品,Goods on consignment,,
+1233,在途商品,Goods in transit,,
+1234,備抵存貨跌價(買賣業),Allowance for inventory valuation (for merchandising business),,
+1235,製成品,Finished goods,,
+1236,副產品,By-products,,
+1237,在製品,Work in progress,,
+1238,委外加工,Outsourced processing,,
+1239,原料,Raw materials,,
+1240,物料,Supplies,,
+1241,在途原物料,Materials and supplies in transit,,
+1242,備抵存貨跌價(製造業),Allowance for inventory valuation ( for manufacturing business),,
+1243,農業產品,Agricultural produce,,
+1244,在建工程,Construction in progress,,
+125,生物資產－流動,Current biological assets,"指與農業活動有關且具有生命之動物或植物。在生產性植物上生長中之農產品亦屬之。
+
+
+
+
+
+","The living animals or plants and related to agricultural activity, including produce growing on bearer plants.
+
+
+
+
+
+"
+1251,生產性生物資產－流動,Current bearer biological assets,,
+1252,累計折舊—生產性生物資產—流動,"Accumulated depreciation, current bearer biological assets",,
+1253,累計減損—生產性生物資產—流動,"Accumulated impairment, current bearer biological assets",,
+1254,生產性生物資產公允價值減出售成本累計變動數—流動,Cumulative change in fair value less costs to sell of current bearer biological assets,,
+1255,消耗性生物資產—流動,Current consumable biological assets,,
+1256,累計折舊—消耗性生物資產—流動,"Accumulated depreciation, current consumable biological assets",,
+1257,累計減損—消耗性生物資產—流動,"Accumulated impairment, current consumable biological assets",,
+1258,消耗性生物資產公允價值減出售成本累計變動數—流動,Cumulative change in fair value less costs to sell of current consumable biological assets,,
+"126-
+127",預付款項,Prepayments,指預為支付之各項成本或費用，包括預付費用及預付購料款等。,"The various costs and expenses prepaid, including prepaid expenses and prepayments to suppliers."
+1261,預付薪資,Advance wages and salaries,,
+1262,預付租金,Prepaid rents,,
+1263,預付保險費,Prepaid insurance premiums,,
+1264,用品盤存,Office supplies,,
+1265,其他預付費用,Other prepaid expenses,,
+1266,預付貨款,Prepayments to suppliers,,
+1267,預付投資款,Current prepayments for investments,,
+1268,進項稅額,Business tax paid (or Input VAT),,
+1269,留抵稅額,Excess business tax paid (or Net Input VAT),,
+1270,其他預付款項,Other prepayments,,
+128,其他流動資產,Other current assets,指不能歸屬於前述各類之流動資產。,The current assets that do not belong to the above categories.
+1281,暫付款,Temporary debits,,
+1282,代付款,Payment on behalf of others,,
+1283,員工借支,Advances to employees,,
+1284,存出保證金,Guarantee deposits paid,,
+13-15,非流動資產,Non-current assets,指不能歸屬於流動資產之各類資產。,The various assets that cannot be attributed to current assets.
+131,透過損益按公允價值衡量之金融資產－非流動,Non-current financial assets at fair value through profit or loss,"包括指定為透過損益按公允價值衡量之金融資產－非流動、持有供交易之金融資產—非流動、備供出售金融資產－非流動、避險之衍生金融資產－非流動、以成本衡量之金融資產－非流動、無活絡市場之債券投資－非流動、持有至到期日金融資產－非流動及採用權益法之投資。
+
+
+
+
+
+
+
+
+
+
+","Including non-current financial assets designation as at fair value through profit or loss, non-current financial assets held for trading, non-current available-for-sale financial assets, non-current derivative financial assets for hedging, non-current financial assets at cost, non-current investments in debt instrument without active market, non-current held-to-maturity financial assets, and the investments accounted for using the equity method.
+
+
+
+
+
+
+
+
+
+"
+1311,指定為透過損益按公允價值衡量之金融資產－非流動,Non-current financial assets designation as at fair value through profit or loss,,
+1312,指定為透過損益按公允價值衡量之金融資產評價調整—非流動,Adjustments for change in value of non-current financial assets designation as at fair value through profit or loss,,
+1313,持有供交易之金融資產—非流動,Non-current financial assets held for trading,,
+1314,持有供交易之金融資產評價調整—非流動,Adjustments for change in value of non-current financial assets held for trading,,
+132,備供出售金融資產－非流動,Non-current available-for-sale financial assets,,
+1321,備供出售金融資產－非流動,Non-current available-for-sale financial assets,,
+1322,備供出售金融資產評價調整—非流動,Adjustments for change in value of non-current available-for-sale financial assets,,
+1323,累計減損－備供出售金融資產－非流動,"Accumulated impairment, non-current available-for-sale financial assets",,
+133,以成本衡量之金融資產—非流動,Non-current financial assets at cost,,
+1331,以成本衡量之金融資產—非流動,Non-current financial assets at cost,,
+1332,累計減損—以成本衡量之金融資產—非流動,"Accumulated impairment, non-current financial assets at cost",,
+134,無活絡市場之債務工具投資－非流動,Non-current investments in debt instrument without active market,,
+1341,無活絡市場之債務工具投資－非流動,Non-current investments in debt instrument without active market,,
+1342,累計減損—無活絡市場之債務工具投資－非流動,"Accumulated impairment, non-current investments in debt instrument without active market",,
+135,持有至到期日金融資產－非流動,Held-to-maturity non-current financial assets,,
+1351,持有至到期日金融資產－非流動,Held-to-maturity non-current financial assets,,
+1352,累計減損—持有至到期日金融資產－非流動,"Accumulated impairment, Non-current held-to-maturity financial assets",,
+136,避險之衍生金融資產－非流動,Non-current derivative financial assets for hedging,,
+1361,避險之衍生金融資產－非流動,Non-current derivative financial assets for hedging,,
+1362,避險之衍生金融資產評價調整－非流動,Adjustments for change in value of non-current derivative financial assets for hedging,,
+137,採用權益法之投資,Investments accounted for using equity method,指持有具重大影響力或控制能力之權益工具投資。,Holding an investment in equity instruments with major influence or power of control.
+1371,採用權益法之投資,Investments accounted for using equity method,,
+1372,累計減損—採用權益法之投資,"Accumulated impairment, investments accounted for using equity method",,
+138,投資性不動產,Investment property,指為賺取租金或資本增值或兩者兼具，而由所有者或融資租賃之承租人所持有之不動產。,The property held by the owner or by the lessee under a finance lease to earn rentals or for capital appreciation or both.
+1381,投資性不動產－土地－成本,"Investment property, land, cost",,
+1382,投資性不動產－土地－累計公允價值變動數,"Accumulated changes in fair value, investment property, land",,
+1383,累計減損－投資性不動產－土地,"Accumulated impairment, investment property, land",,
+1384,投資性不動產－建築物－成本,"Investment property, buildings, cost",,
+1385,投資性不動產－建築物－重估增值,"Investment property, buildings, revaluation increment",,
+1386,投資性不動產－建築物－累計公允價值變動數,"Accumulated changes in fair value, investment property, buildings",,
+1387,累計折舊－投資性不動產－建築物,"Accumulated depreciation, investment property, buildings",,
+1388,累計減損－投資性不動產－建築物,"Accumulated impairment, investment property, buildings",,
+"139
+-146",不動產、廠房及設備,"Property, plant and equipment",指用於商品、農業產品或勞務之生產或提供、出租予他人或供管理目的而持有，且預期使用期間超過一年之有形資產，包括土地、建築物、機器設備、運輸設備及辦公設備等會計項目。,"The tangible items which are defined as held for use in the production or supply of goods, agricultural produce or services, for rental to others, or for administrative purposes and expected to be used during more than one period, include land, buildings, machinery and equipment, shipping equipment and office equipment."
+1391,土地－成本 ,"Land, cost",,
+1392,土地－重估增值,"Land, revaluation increment",,
+1393,累計減損－土地 ,"Accumulated impairment, land",,
+1401,土地改良物－成本,"Land improvements, cost",,
+1402,土地改良物－重估增值,"Land improvements, revaluation increment",,
+1403,累計折舊－土地改良物,"Accumulated depreciation, land improvements",,
+1404,累計減損－土地改良物,"Accumulated impairment, land improvements",,
+1411,房屋及建築－成本,"Buildings and structures, cost",,
+1412,房屋及建築－重估增值,"Buildings and structures, revaluation increment",,
+1413,累計折舊－房屋及建築,"Accumulated depreciation, buildings and structures",,
+1414,累計減損－房屋及建築,"Accumulated impairment, buildings and structures",,
+1421,機器設備－成本 ,"Machinery and equipment, cost",,
+1422,累計折舊－機器設備,"Accumulated depreciation, machinery and equipment",,
+1423,累計減損－機器設備,"Accumulated impairment, machinery and equipment",,
+1431,辦公設備－成本,"Office equipment, cost",,
+1432,累計折舊－辦公設備,"Accumulated depreciation, office equipment",,
+1433,累計減損－辦公設備,"Accumulated impairment, office equipment",,
+1441,租賃資產－成本,"Leased assets, cost",,
+1442,累計折舊－租賃資產,"Accumulated depreciation, leased assets",,
+1443,累計減損－租賃資產,"Accumulated impairment, leased assets",,
+1451,出租設備－成本,"Rental assets, cost",,
+1452,累計折舊－出租設備 ,"Accumulated depreciation, rental assets",,
+1453,累計減損－出租設備,"Accumulated impairment, rental assets",,
+1461,租賃權益改良－成本,"Leasehold improvements, cost",,
+1462,累計折舊－租賃權益改良,"Accumulated depreciation, leasehold improvements",,
+1463,累計減損－租賃權益改良,"Accumulated impairment, leasehold improvements",,
+1464,未完工程及待驗設備,Unfinished construction and equipments pending acceptance,,
+1466,生產性植物－成本,"Bearer plants, cost",,
+1467,累計折舊－生產性植物 ,"Accumulated depreciation, bearer plants",,
+1468,累計減損－生產性植物,"Accumulated impairment, bearer plants",,
+147,礦產資源淨額,"Mineral resources, net",指蘊藏量將隨開採或其他使用方法而耗竭之天然礦產。,The natural resources whose value decreases after extraction or other means of alteration.
+1471,礦產資源－成本,"Mineral resources, cost",,
+1472,礦產資源－重估增值,"Mineral resources, revaluation increment",,
+1473,累計折耗－礦產資源,"Accumulated depletion, mineral resources",,
+1474,累計減損－礦產資源,"Accumulated impairment, mineral resources",,
+"148
+",生物資產－非流動,Non-current biological assets,生物資產，指與農業活動有關且具生命之動物或植物。生物資產應依流動性區分為流動與非流動，並以公允價值減出售成本衡量。但取得公允價值需耗費過當之成本或努力者，得以其成本減累計折舊及累計減損後之帳面金額列示。,"Biological assets are living animals or plants and related to agricultural activity. Biological assets shall be divided into current and non-current according to the liquidity, and measured by fair value less costs to sell. But fair value is not readily determinable without undue cost or effort, may be carried at its cost less accumulated depreciation and accumulated impairment losses."
+1481,生產性生物資產－非流動,Non-current bearer biological assets,,
+1482,累計折舊－生產性生物資產－非流動,"Accumulated depreciation, non-current bearer biological assets",,
+1483,累計減損－生產性生物資產－非流動,"Accumulated impairment, non-current bearer biological assets",,
+1484,生產性生物資產公允價值減出售成本累計變動數—非流動,Accumulated change in fair value less costs to sell of non-current bearer biological assets,,
+1485,消耗性生物資產—非流動,Non-current consumable biological assets,,
+1486,累計折舊—消耗性生物資產—非流動,"Accumulated depreciation, non-current  consumable biological assets",,
+1487,累計減損－消耗性生物資產—非流動,"Accumulated impairment, non-current  consumable biological assets",,
+1488,消耗性生物資產公允價值減出售成本累計變動數—非流動,Accumulated change in fair value less cost to sell of non-current consumable biological assets,,
+"149-
+155",無形資產,Intangible assets,指無實體形式之可辨認非貨幣性資產及商譽。,The identifiable non-monetary assets without physical substance and goodwill.
+1491,商標權－成本,"Trademarks, cost",,
+1492,商標權－重估增值,"Trademarks, revaluation increment ",,
+1493,累計攤銷－商標權,"Accumulated amortization, trademarks",,
+1494,累計減損－商標權,"Accumulated impairment,  trademarks",,
+1501,專利權－成本,"Patents, cost",,
+1502,專利權－重估增值,"Patents, revaluation increment ",,
+1503,累計攤銷—專利權,"Accumulated amortization, patents",,
+1504,累計減損－專利權,"Accumulated impairment, patents",,
+1511,特許權－成本,"Franchise, cost",,
+1512,特許權－重估增值,"Franchise, revaluation increment ",,
+1513,累計攤銷—特許權,"Accumulated amortization, franchise",,
+1514,累計減損－特許權,"Accumulated impairment, franchise",,
+1521,著作權－成本,"Copyright, cost ",,
+1522,著作權－重估增值,"Copyright, revaluation increment ",,
+1523,累計攤銷—著作權,"Accumulated amortization, copyright",,
+1524,累計減損－著作權,"Accumulated impairment, copyright",,
+1531,電腦軟體－成本,"Computer software, cost ",,
+1532,電腦軟體－重估增值,"Computer software, revaluation increment ",,
+1533,累計攤銷－電腦軟體 ,"Accumulated amortization, computer software",,
+1534,累計減損－電腦軟體 ,"Accumulated impairment, computer software",,
+1541,商譽－成本,"Goodwill, cost",指自企業合併取得之不可辨認及未單獨認列未來經濟效益之無形資產。,The unidentifiable and not separately recognized future economic benefits of intangible assets that acquired in a business combination.
+1542,累計攤銷－商譽,"Accumulated  amortization, goodwill",,
+1543,累計減損－商譽,"Accumulated impairment, goodwill",,
+1551,其他無形資產,"Other intangible assets, net",,
+1552,累計攤銷－其他無形資產,"Accumulated amortization, other intangible assets",,
+1553,累計減損－其他無形資產,"Accumulated impairment, other intangible assets",,
+156,遞延所得稅資產,Deferred tax assets,指與可減除暫時性差異、未使用課稅損失遞轉後期及未使用所得稅抵減遞轉後期有關之未來期間可回收所得稅金額。,The amounts of income taxes recoverable in future periods in respect of deductible temporary differences; the carryforward of unused tax losses; and the carryforward of unused tax credits.
+1561,遞延所得稅資產,Deferred tax assets,,
+157-158,其他非流動資產,Other non-current assets,指不能歸屬於前述各類之非流動資產。,The noncurrent assets that do not belong to the above categories.
+1571,長期應收票據,Long-term notes receivable,,
+1572,長期應收款 ,Long-term accounts receivables,,
+1573,催收款項,Overdue receivables,,
+1574,備抵呆帳－長期應收票據及款項,Allowance for uncollectible long-term notes and accounts receivable,,
+1575,備抵呆帳－催收款項,Allowance for uncollectible overdue receivables,,
+1576,長期應收票據及款項－關係人,Long-term notes and accounts receivable due from related parties,,
+1577,催收款項－關係人,Overdue receivables from related parties,,
+1578,長期預付租金,Long-term prepaid rents,,
+1579,長期預付保險費,Long-term prepaid insurance premiums,,
+1580,預付投資款,Non-current prepayments for investments,,
+1581,預付退休金,Prepaid pension cost,,
+1582,預付設備款,Prepayments for business facilities,,
+1583,存出保證金,Guarantee deposits paid,,
+1584,業主(股東)往來,"Owner (shareholder) accounts, debit",,
+1585,同業往來,"Accounts with the trade, debit",,
+1586,其他非流動資產－其他,"Other non-current assets, others",,
+1587,人壽保險現金解約價值,Cash surrender value of life insurance,,
+1588,備抵呆帳-長期應收關係人票據及款項,Allowance for uncollectible long-term notes and accounts receivable due from related parties,,
+1589,備抵呆帳-催收關係人款項,Allowance for uncollectible overdue receivables from related parties,,
+2,負債,Liabilities,指因過去事項所產生之現時義務，預期該義務之清償，將導致經濟效益之資源流出。,"The present obligations of the business entity arising from past events, the settlement of which is expected to result in an outflow from the business entity of resources embodying economic benefits."
+"21-
+22",流動負債,Current liabilities,指商業預期於其正常營業週期中清償之負債；主要為交易目的而持有之負債；預期於資產負債表日後十二個月內到期清償之負債，即使該負債於資產負債表日後至通過財務報表前已完成長期性之再融資或重新安排付款協議；商業不能無條件將清償期限遞延至資產負債表日後至少十二個月之負債。,"The liabilities that the business entity are to be expects to settle the liability in its normal operating cycle; it holds the liability primarily for the purpose of trading, and are expected to be settled within twelve months after the maturity of the debt, even if the liability at the date of statement of financial position to complete the long-term refinancing prior to the financial statements or reschedule payment agreement; it does not have an unconditional right to defer settlement of the liability for at least twelve months after the date of statement of financial position."
+211,短期借款,Short-term borrowings,指向金融機構或他人借入或透支之款項。,The sum of money that is borrowed or is an overdraft from a financial institution or another party.
+2111,銀行透支,Bank overdrafts,,
+2112,銀行借款,Bank loan,,
+2113,短期借款－業主,Short-term borrowings from owners,,
+2114,短期借款－員工,Short-term borrowings from employees,,
+2115,短期借款－關係人,Short-term borrowings from related parties,,
+2116,短期借款－其他,"Short-term borrowings, others",,
+212,應付短期票券,Short-term notes and bills payable,指為自貨幣市場獲取資金，而委託金融機構發行之短期票券，包括應付商業本票及銀行承兌匯票等。,"The short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc."
+2121,應付商業本票,Commercial papers payable,,
+2122,銀行承兌匯票,Bank acceptances,,
+2123,其他應付短期票券,Other short-term notes and bills payable,,
+2124,應付短期票券折價,Discount on short-term notes and bills payable,,
+213,透過損益按公允價值衡量之金融負債－流動,Current financial liabilities at fair value through profit or loss,指持有供交易或原始認列時被指定為透過損益按公允價值衡量之金融負債。,The financial liabilities that is held for trading or designation as at fair value through profit or loss at initial recognition.
+2131,指定為透過損益按公允價值衡量之金融負債－流動,Current financial liabilities designation as at fair value through profit or loss,,
+2132,指定為透過損益按公允價值衡量之金融負債評價調整－流動,Adjustments for change in value of current financial liabilities designation as at fair value through profit or loss,,
+2133,持有供交易之金融負債－流動,Current financial liabilities held for trading,,
+2134,持有供交易之金融負債評價調整－流動,Adjustments for change in value of current financial liabilities held for trading,,
+214,避險之衍生金融負債－流動,Current derivative financial liabilities for hedging,指依避險會計指定且為有效避險工具之衍生金融負債。,The financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
+2141,避險之衍生金融負債－流動 ,Current derivative financial liabilities for hedging,,
+2142,避險之衍生金融負債評價調整－流動,Adjustments for change in value of current derivative financial liabilities for hedging,,
+215,以成本衡量之金融負債－流動,Current financial liabilities at cost,指與無活絡市場公開報價之權益工具連結，並以交付該等權益工具交割之衍生工具，其公允價值無法可靠衡量之金融負債。,The financial liability that isa derivative instrument linked to and settled by the delivery of equity instruments that does not have a quoted price in an active market and whose fair value cannot be reliably measured.
+2151,以成本衡量之金融負債－流動,Current financial liabilities at cost,,
+216,應付票據,Notes payable,指商業應付之各種票據。,The various notes payable handled by the business entity.
+2161,應付票據,Notes payable,,
+2162,應付票據－關係人,Notes payable to related parties,,
+2163,其他應付票據,Other notes payable,,
+217,應付帳款,Accounts payable,指因賖購原物料、商品或勞務所發生之債務。,"The liabilities occurred due to trade on credit terms purchased of raw materials, goods or services."
+2171,應付帳款,Accounts payable,,
+2172,應付租賃款－流動,Current lease obligations payable,,
+2173,應付帳款－關係人,Accounts payable to related parties,,
+218,應付建造合約款,Construction contracts payable,,
+219-220,其他應付款,Other payables,指不屬於應付票據、應付帳款及應付建造合約款之應付款項，如應付薪資、應付稅捐、應付股息紅利等。,"Any of the payables that do not belong to the notes payable , accounts payable, and construction contracts payable, such as other salary payables, taxes payables, dividend and bonus payables, etc."
+2191,應付薪資,Wages and salaries payable,,
+2192,應付租金,Rents payable,,
+2193,應付利息,Interest payable,,
+2194,應付營業稅,Business tax payable,,
+2195,應付稅捐－其他,Other tax payable,,
+2196,應付退休金費用,Pension expense payable,,
+2197,其他應付費用,Other accrued expenses,,
+2198,應付土地房屋款,Payable on land and building purchased,,
+2199,應付設備款,Payable on machinery and equipment,,
+2200,其他應付款－關係人,Other payables to related parties,,
+2201,應付股利,Dividends payable,,
+2202,應付員工酬勞 ,Employee compensation payable,,
+2203,應付董監事酬勞,Compensation due to directors and supervisors,,
+2204,銷項稅額,Business tax received (or Output VAT),,
+2205,其他應付款－股份基礎給付,"Other payables, share-based payments",,
+2206,其他應付款－其他,"Other payables, others",,
+221,本期所得稅負債,Current tax liabilities,指尚未支付之本期及前期所得稅。,The unpaid income tax for the current and prior periods.
+2211,本期所得稅負債,Current tax liabilities,,
+222,預收款項,Advance receipts,指預為收納之各種款項。,The amount received in advance.
+2221,預收貨款,Advance sales receipts,,
+2222,預收收入,Unearned revenue,,
+2223,其他預收款,Other advance receipts,,
+223,一年內到期長期負債,"Long-term liabilities, current portion",,
+2231,一年內到期應付公司債,"Bonds payable, current portion",,
+2232,一年內到期長期借款,"Long-term borrowings, current portion",,
+2233,一年內到期長期應付票據及款項,"Long-term notes and accounts payable, current portion",,
+2234,一年內到期長期應付票據及款項－關係人,"Long-term notes and accounts payable to related parties, current portion",,
+2235,一年內到期其他長期負債,"Other long-term liabilities, current portion",,
+224,負債準備—流動,Current provisions,指不確定時點或金額之流動負債。,The current liabilities of uncertain timing or amount. 
+2241,保固之短期負債準備,Short-term warranty provision,,
+2242,虧損性合約之短期負債準備,Short-term onerous contracts provision,,
+2243,除役、復原及修復成本之短期負債準備,"Short-term provision for decommissioning, restoration and rehabilitation costs",,
+2244,保證合約之短期負債準備,Short-term guarantee contracts provision,,
+2245,銷貨退回及折讓之短期負債準備,Short-term provision for sales returns and discounts,,
+2246,其他短期負債準備,Other short-term provisions,,
+225,其他流動負債,Other current liabilities,指不能歸屬於前述各類之流動負債。,The current liabilities that do not belong to the previous categories.
+2251,暫收款,Temporary credits,,
+2252,代收款,Receipts under custody,,
+23,非流動負債,Non-current liabilities,指不能歸屬於流動負債之各類負債。,The liabilities do not belong to the current liabilities.
+231,透過損益按公允價值衡量之金融負債－非流動,Non-current financial liabilities at fair value through profit or loss,,
+2311,指定為透過損益按公允價值衡量之金融負債－非流動,Non-current financial liabilities designation as at fair value through profit or loss,,
+2312,指定為透過損益按公允價值衡量之金融負債評價調整－非流動,Adjustments for change in value of non-current financial liabilities designation as at fair value through profit or loss,,
+2313,持有供交易之金融負債－非流動,Non-current financial liabilities held for trading,,
+2314,持有供交易之金融負債評價調整－非流動,Adjustments for change in value of non-current financial liabilities held for trading,,
+232,避險之衍生金融負債－非流動,Non-current derivative financial liabilities for hedging,,
+2321,避險之衍生金融負債－非流動,Non-current derivative financial liabilities for hedging,,
+2322,避險之衍生金融負債評價調整－非流動,Adjustments for change in value of non-current derivative financial liabilities for hedging,,
+233,以成本衡量之金融負債－非流動,Non-current financial liabilities at cost,,
+2331,以成本衡量之金融負債－非流動,Non-current financial liabilities at cost,,
+234,應付公司債,Bonds payable,指商業發行之債券。,The bonds issued by the business entity.
+2341,應付公司債,Bonds payable,,
+2342,應付公司債溢(折)價,Premium (discount) on bonds payable,,
+235,長期借款,Long-term borrowings,指到期日在一年以上之借款。,The loans payable whose repayment deadlines are exceeds one year.
+2351,長期銀行借款,Long-term bank loans,,
+2352,長期借款－業主,Long-term borrowings from owners,,
+2353,長期借款－員工,Long-term borrowings from employees,,
+2354,長期借款－關係人,Long-term borrowings from related parties,,
+2355,長期借款－其他,"Long-term borrowings, others",,
+236,長期應付票據及款項,Long-term notes and accounts payable,指付款期間在一年以上之應付票據、應付帳款。,"The notes payables, accounts payables, etc. whose payment deadline exceeds one year. "
+2361,長期應付票據,Long-term notes payable,,
+2362,長期應付帳款,Long-term accounts payable,,
+2363,應付租賃款－非流動,Non-current lease obligations payable,,
+2364,長期應付票據及款項－關係人,Long-term notes and accounts payable to related parties,,
+2365,其他長期應付款項,Others long-term accounts payable,,
+237,負債準備—非流動,Non-current provisions,指不確定時點或金額之非流動負債。,The non-current liabilities of uncertain timing or amount.
+2371,虧損性合約之長期負債準備,Long-term onerous contracts provision,,
+2372,除役、復原及修復成本之長期負債準備,"Long-term provision for decommissioning, restoration and rehabilitation costs",,
+2373,保證合約之長期負債準備,Long-term guarantee contracts provision,,
+2374,保固之長期負債準備,Long-term warranty provision,,
+238,遞延所得稅負債,Deferred tax liabilities,指與應課稅暫時性差異有關之未來期間應付所得稅。,The amounts of income taxes payable in future periods in respect of taxable temporary differences.
+2381,遞延所得稅負債－土地增值稅,"Deferred tax liabilities, land value increment tax",,
+2382,遞延所得稅負債－所得稅 ,"Deferred tax liabilities, income tax",,
+239,其他非流動負債,Other non-current liabilities,指不能歸屬於前述各類之其他非流動負債。,The other non-current liabilities that do not belong to the above categories.
+2391,遞延收入,Unearned revenue,,
+2392,存入保證金,Guarantee deposits received,,
+2393,業主(股東)往來,"Owner (shareholder) accounts, credit",,
+2394,同業往來,"Accounts with the trade, credit",,
+2395,其他非流動負債－股份基礎給付,"Other non-current liabilities, share-based payment",,
+3,權益,Equity,指資產減去負債之剩餘權利。,The residual interest in the assts of the business entity after deducting all its liabilities.
+31,資本(或股本) ,Capital (Share capital),指業主對商業投入之資本額，並向主管機關登記者，但不包括符合負債性質之特別股。,The capital brought into the business entity by the owner and registered with a competent authority; however it does not include preferred share of liability nature.
+311,資本(或股本) ,Capital (Share capital),,
+3111,普通股股本,Ordinary share,,
+3112,特別股股本,Preference share,,
+3113,預收股本,Advance receipts for ordinary share,,
+3114,待分配股票股利,Stock dividend to be distributed,,
+32,資本公積,Capital surplus,指公司因股本交易所產生之權益。,The equity arising through company’s trading of equity. 
+321,資本公積,Capital surplus,,
+3211,資本公積－普通股股票溢價 ,"Capital surplus, additional paid-in capital arising from ordinary share",,
+3212,資本公積－特別股股票溢價,"Capital surplus, additional paid-in capital arising from preference share",,
+3213,資本公積－庫藏股票交易,"Capital surplus, treasury share transactions",,
+3214,資本公積－股份基礎給付,"Capital surplus, share-based payments",,
+3215,資本公積－受贈資產,"Capital surplus, donated assets received",,
+3216,資本公積－採用權益法認列關聯企業及合資股權淨值變動數,"Capital surplus, changes in equity of investment in associates and joint ventures accounted for using equity method",,
+3217,資本公積－實際取得或處分子公司股權價格與帳面價值差額,"Capital surplus, difference between consideration and carrying amount of subsidiaries acquired or disposed",,
+3218,資本公積－認列對子公司所有權權益變動數,"Capital surplus, changes in ownership interests in subsidiaries",,
+3219,資本公積－認股權,"Capital surplus, share option",,
+3220,資本公積－其他,"Capital surplus, others",,
+33,保留盈餘(或累積虧損) ,Retained earnings (accumulated deficit),指由營業結果所產生之權益。,The equity resulting from business operations.
+331,法定盈餘公積,Legal reserve,指依公司法或其他相關法律規定，自盈餘中指撥之公積。,"The reserve appropriated from earnings according to Company Law or other related regulations.
+"
+3311,法定盈餘公積,Legal reserve,,
+332,特別盈餘公積,Special reserve,指依法令或盈餘分派之議案，自盈餘中指撥之公積，以限制股息及紅利之分派者。,The reserve appropriated from earnings according to regulations or the resolution of earnings distribution for the purpose of restricting the distribution of earnings as dividends or bonus.
+3321,特別盈餘公積,Special reserve,,
+335,未分配盈餘(或待彌補虧損) ,Unappropriated retained earnings (accumulated deficit),指未經指撥之盈餘(或未經彌補之虧損)。,"The earnings that have not been appropriated (or the deficit has not been offset).
+"
+3351,累積盈虧,Accumulated profit and loss,,
+3352,追溯適用及追溯重編之影響數,Effect of retrospective application and retrospective restatement,,
+3353,本期損益,Current profit and loss,,
+34,其他權益,Other equity interest,指其他造成權益增加或減少之項目，包括備供出售金融資產未實現損益、現金流量避險中屬有效避險部分之避險工具損益、國外營運機構財務報表換算之兌換差額及未實現重估增值等。,"The items causing the increase or decrease of equity, including unrealized gains or losses from available-for-sale financial assets, gains (losses) on effective portion of cash flow hedges, gains (losses) on the exchange differences resulting from translating the financial statements in foreign operations, unrealized revaluation surplus, etc."
+341,其他權益,Other equity interest,,
+3411,備供出售金融資產未實現損益,Unrealized gains (losses) on available-for-sale financial assets,,
+3412,現金流量避險中屬有效避險部分之避險工具損益,Gains (losses) on effective portion of cash flow hedges,,
+3413,國外營運機構財務報表換算之兌換差額,Exchange differences on translation of foreign financial statements,,
+3414,未實現重估增值,Unrealized revaluation surplus,,
+3415,其他權益－其他,"Other equity interest, others",,
+35,庫藏股票,Treasury shares,指公司收回已發行股票，尚未再出售或註銷者。,"The shares once issued, later reacquired and still not resold or cancelled by the company. "
+351,庫藏股票,Treasury shares,,
+3511,庫藏股票,Treasury shares,,
+4,營業收入,Operating revenue,指本期內因銷售商品或提供勞務等所獲得之收入。,The revenue earned in the normal operation of selling goods or services provided in the current period.
+41,營業收入,Operating revenue,,
+411,銷貨收入,Sales revenue,,
+4111,銷貨收入,Sales revenue,,
+4112,分期付款銷貨收入 ,Installment sales,,
+4113,銷貨退回,Sales returns,,
+4114,銷貨折讓,Sales discounts and allowances,,
+412,勞務收入,Service revenue,,
+4121,勞務收入,Service revenue,,
+"413-
+423",工程收入,Engineering service revenue,,
+4131,工程收入,Engineering revenue,,
+4232,工程收入退回及折讓,Return and allowance for engineering revenue,,
+414,其他營業收入,Other operating revenue,,
+4141,其他營業收入,Other operating revenue,,
+5,營業成本,Operating costs,指本期內因銷售商品或提供勞務等而應負擔之成本。,The costs that are borne for selling goods or providing services in the current period.
+51,銷貨成本,Cost of sales,,
+511,銷貨成本,Cost of sales,,
+5111,銷貨成本,Cost of sales,,
+5112,分期付款銷貨成本,Cost of installment sales,,
+512,進貨,Cost of goods purchased,,
+5121,進貨,Purchase of goods,,
+5122,進貨費用,Purchasing expense,,
+5123,進貨退出,Purchases returns,,
+5124,進貨折讓,Purchases discounts and allowances,,
+513,進料,Cost of raw materials purchased,,
+5131,進料,Purchase of raw materials,,
+5132,進料費用,Raw materials purchasing expense ,,
+5133,進料退出,Raw materials purchase returns,,
+"
+5134",進料折讓,Raw materials purchase discounts and allowances,,
+514,直接人工,Direct labor,,
+5141,直接人工,Direct labor,,
+"515-
+516",製造費用,Overhead,,"
+
+
+
+
+
+"
+5151,間接人工,Indirect labor,,
+5152,租金支出,Rent expense,,
+5153,文具用品,Stationery supplies,,
+5154,旅費,Traveling Expense,,
+5155,運費,Freight,,
+5156,郵電費,Postage expenses,,
+5157,修繕費,Repairs and maintenance expense,,
+5158,包裝費,Packing expenses,,
+5159,水電瓦斯費,Utilities expense,,
+5160,保險費,Insurance expense,,
+5161,加工費,Processing expense,,
+5162,稅捐 ,Taxes,,
+5163,折舊,Depreciations,,
+5164,各項耗竭及攤提,Depletions and amortizations,,
+5165,伙食費,Meal expense,,
+5166,職工福利,Employee benefits/welfare,,
+5167,訓練費,Training expense,,
+5168,間接材料,Indirect materials,,
+5169,其他製造費用,Other overheads,,
+561,勞務成本,Cost of services,,
+5611,勞務成本,Cost of services,,
+581,工程成本,Cost of engineering service sales,,
+5811,工程成本,Cost of engineering service sales,,
+591,其他營業成本,Other operating costs,,
+5911,其他營業成本,Other operating costs,,
+6,營業費用,Operating expenses,指本期內因銷售商品或提供勞務應負擔之費用（採費用功能法者，應依費用之功能分類為推銷費用、管理費用及研發費用等）。,"The expenses that are borne from selling goods or providing services in the current period. (When applying “function of expense” method, expenses are classified according to their function as part of administrative expenses, and marketing expenses, R&D expenses.) "
+61,營業費用,Operating expenses,,
+"611-
+613",營業費用,Operating expenses,,
+6111,薪資支出,Wages and salaries,,
+6112,租金支出,Rent expense,,
+6113,文具用品,Stationery supplies,,
+6114,旅費,Traveling Expense,,
+6115,運費,Freight,,
+6116,郵電費,Postage expenses,,
+6117,修繕費,Repairs and maintenance expense,,
+6118,廣告費 ,Advertisement expense,,
+6119,水電瓦斯費,Utilities expense,,
+6120,保險費,Insurance expense,,
+6121,交際費,Entertainment expense,,
+6122,捐贈,Donation expense,,
+6123,稅捐,Taxes,,
+6124,呆帳損失,Losses on doubtful debts,,
+6125,折舊,Depreciations,,
+6126,各項耗竭及攤提,Depletions and amortizations,,
+6127,外銷損失,Losses on export sales,,
+6128,伙食費,Meal expense,,
+6129,職工福利,Employee benefits/welfare,,
+6130,研究發展費用,Research and development expense,,
+6131,佣金支出,Commissions expense,,
+6132,訓練費,Training expense,,
+6133,勞務費,Services expense,,
+6134,其他營業費用,Other operating expenses,,
+7,營業外收益及費損,Non-operating income and expenses,指本期內非因經常營業活動所發生之收益及費損。,The revenues and expenses which do not arise from usual operating activities in the current period.
+71-72,營業外收益及費損,Non-operating income and expenses,,
+711,利息收入,Interest revenue,,
+7111,利息收入,Interest revenue,,
+712,租金收入,Rent income,,
+7121,租金收入,Rent income,,
+713,權利金收入,Royalty income,,
+7131,權利金收入,Royalty income,,
+714,股利收入,Dividend revenue,,
+7141,股利收入,Dividend revenue,,
+715,利息費用,Interest expense,,
+7151,利息費用,Interest expense,,
+716,透過損益按公允價值衡量之金融資產(負債)淨損益,Net Gain or loss on financial assets (liabilities) at fair value through profit or loss,,
+7161,透過損益按公允價值衡量之金融資產(負債)利益,Gains on financial assets (liabilities) at fair value through profit or loss,,
+7162,透過損益按公允價值衡量之金融資產(負債)損失,Losses on financial assets (liabilities) at fair value through profit or loss,,
+717,採權益法認列之投資損益,Net investment income or loss accounted for using equity method,"
+","
+"
+7171,採權益法認列之投資利益,Investment income accounted for using equity method,,
+7172,採權益法認列之投資損失,Investment loss accounted for using equity method,,
+718,兌換損益,Foreign exchange net gain or loss,,
+7181,兌換利益 ,Foreign exchange gains,,
+7182,兌換損失,Foreign exchange losses,,
+719,處分投資損益,Net gain or loss on disposals of investment ,,
+7191,處分投資性不動產利益,Gains on disposals of investment property,,
+7192,處分投資性不動產損失,Losses on disposals of investment property,,
+7193,處分投資利益,Gains on disposals of investments,,
+7194,處分投資損失,Losses on disposals of investments,,
+720,處分不動產、廠房及設備損益,"Net gain or loss on disposals of property, plant and equipment",,
+7201,處分不動產、廠房及設備利益,"Gains on disposals of property, plant and equipment",,
+7202,處分不動產、廠房及設備損失,"Losses on disposals of property, plant and equipment",,
+721,減損損失,Impairment loss,"
+
+
+","
+
+
+"
+7211,金融資產減損損失,Impairment loss on financial assets,,
+7212,投資性不動產減損損失,"Impairment loss recognized in profit or loss, investment property",,
+7213,不動產、廠房及設備減損損失,"Impairment loss recognized in profit or loss, property, plant and equipment",,
+7214,無形資產減損損失,"Impairment loss recognised in profit or loss, intangible assets other than goodwill",,
+7215,生物資產減損損失,"Impairment loss recognized in profit or loss, biological assets",,
+722,減損迴轉利益,Reversal of impairment loss recognised in profit or loss,,
+7221,金融資產減損迴轉利益,"Reversal of impairment loss recognised in profit or loss, financial assets",,
+7222,投資性不動產減損迴轉利益,"Reversal of impairment loss recognised in profit or loss, investment property",,
+7223,不動產、廠房及設備減損迴轉利益,"Reversal of impairment loss recognised in profit or loss, property, plant and equipment",,
+7224,無形資產減損迴轉利益 ,"Reversal of impairment loss recognised in profit or loss, intangible assets",,
+7225,生物資產減損迴轉利益,"Reversal of impairment loss recognised in profit or loss, biological assets",,
+"723-
+724",其他營業外收益及費損,Other non-operating income and expenses,凡不屬於前述各類之營業外收益及費損皆屬之。,The other non-operating income and expenses that do not belong to the above categories.
+7231,捐贈收入,Donation revenue,,
+7232,佣金收入,Commissions revenue,,
+7233,處分無形資產利益,Gains on disposals of intangible assets,,
+7234,出售下腳及廢料收入,Income from sale of scraps,,
+7235,呆帳轉回利益,Gains on doubtful debt recoveries,,
+7236,手續費收入,Fee income,,
+7237,廉價購買利益,Gain recognized in bargain purchase transaction,,
+7238,當期原始認列生物資產之利益,Gains on initial recognition of biological assets for current period,,
+7239,生物資產當期公允價值減出售成本之變動之利益,Gains on changes in fair value less costs to sell of biological assets for current period,,
+7240,處分無形資產損失,Losses on disposals of intangible assets other than goodwill,,
+7241,停工損失,Losses on work stoppages,,
+7242,災害損失,Losses on disaster,,
+7243,手續費支出,Fee expense,,
+7244,虧損性合約損失,Onerous contracts losses,,
+7245,當期原始認列生物資產之損失,Losses on initial recognition of biological assets for current period,,
+7246,生物資產當期公允價值減出售成本之變動之損失,Losses on changes in fair value less costs to sell of biological assets for current period,,
+8,綜合損益總額,Total comprehensive income,,
+81,繼續營業單位稅前淨利（或淨損）,Profit (loss) from continuing operations before tax,,
+811,繼續營業單位稅前淨益（或淨損）,Profit (loss) from continuing operations before tax,,
+82,所得稅費用(或利益) ,Tax expense (income),指包含於決定本期損益中，與當期所得稅及遞延所得稅有關之彙總數。,The aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
+821,所得稅費用(或利益) ,Tax expense (income),,
+8211,所得稅費用(或利益) ,Tax expense (income),,
+83,繼續營業單位稅後淨利(或淨損）,Profit (loss) from continuing operations,,
+831,繼續營業單位稅後淨利(或淨損）,Profit (loss) from continuing operations,,
+84,停業單位損益(稅後),"Profit (loss) from discontinued operations, net of tax",指包括停業單位之稅後損益，及構成停業單位之資產或處分群組於按公允價值減出售成本衡量時或於處分時所認列之稅後利益或損失。,The post-tax profit or loss of discontinued operations and the post-tax gain or loss recognized on the measurement to fair value less costs to sell or on the disposal of the assets or disposal group(s) constituting the discontinued operation.
+841,停業單位損益(稅後),"Profit (loss) from discontinued operations, net of tax",,
+8411,停業單位資產或處分群組處分損益（稅後）,"Gain (loss) on disposal of assets or disposal groups constituting discontinued operation, net of tax",,
+8412,停業單位資產或處分群組按公允價值減出售成本衡量損益（稅後）,"Gain (loss) recognised on measurement to fair value less costs to sell of assets or disposal groups constituting discontinued operation, net of tax",,
+86,本期稅後淨利(淨損) ,Profit (loss),指本期之稅後盈餘（或虧損）。,The current period’s profit (or loss).
+87,本期其他綜合損益,Other comprehensive income,"指本期變動之其他權益，例如備供出售金融資產未實現損益、現金流量避險中屬有效避險部分之避險工具損益、國外營運機構財務報表換算之兌換差額、未實現重估增值及採用權益法認列之其他綜合損益等。
+","The changes of the equity in the current period, including unrealized gains (losses) on available-for-sale financial assets, gains (losses) on effective portion of cash flow hedges, gains (losses) on exchange differences on translation of foreign financial statements, unrealized revaluation surplus, etc."
+871,備供出售金融資產未實現損益,Unrealized gains (losses) on available-for-sale financial assets,,
+8711,備供出售金融資產未實現損益,Unrealized gains (losses) on available-for-sale financial assets,,
+872,現金流量避險中屬有效避險部分之避險工具損益,Gains (losses) on effective portion of cash flow hedges,,
+8721,現金流量避險中屬有效避險部分之避險工具損益,Gains (losses) on effective portion of cash flow hedges,,
+873,國外營運機構財務報表換算之兌換差額,Exchange differences on translation of foreign financial statements,,
+8731,國外營運機構財務報表換算之兌換差額,Exchange differences on translation of foreign financial statements,,
+874,未實現重估增值,Unrealized gains (losses) on revaluation,,
+8741,未實現重估增值,Unrealized gains (losses) on revaluation,,
+875,採用權益法認列之其他綜合損益份額,"Share of other comprehensive income, accounted for using equity method",,
+8751,採用權益法認列之備供出售金融資產未實現損益,"Unrealized gains (losses) on available-for-sale financial assets, accounted for using equity method",,
+8752,採用權益法認列之現金流量避險中屬有效避險部分之避險工具損益,"Gains (losses) on effective portion of cash flow hedges, accounted for using equity method ",,
+8753,採用權益法認列之國外營運機構財務報表換算之兌換差額 ,"Exchange differences on translation of foreign financial statements, accounted for using equity method ",,
+8754,採用權益法認列之未實現重估增值,"Unrealized gains (losses) on revaluation, accounted for using equity method ",,
+876,與本期其他綜合損益相關之所得稅,Income tax related to components of other comprehensive income ,,
+8761,與本期其他綜合損益相關之所得稅,Income tax related to components of other comprehensive income ,,
+88,本期綜合損益總額,Total comprehensive income,指本期稅後淨利(或淨損)及本期其他綜合損益之合計數。,The components of the profit (or loss) for the period and other comprehensive income.
