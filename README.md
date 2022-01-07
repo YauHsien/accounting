@@ -22,4 +22,4 @@
   - DSA
   - ECDSA
   - EdDSA
-  - RSA
+  - [RSA](https://datatracker.ietf.org/doc/html/rfc8017)
