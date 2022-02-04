@@ -23,3 +23,6 @@
   - ECDSA
   - EdDSA
   - [RSA](https://datatracker.ietf.org/doc/html/rfc8017)
+
+### 加密資料結構
+- Stuart Haber and W. Scott Stornetta. 1997. Secure names for bit-strings. In <i>Proceedings of the 4th ACM conference on Computer and communications security</i> (<i>CCS '97</i>). Association for Computing Machinery, New York, NY, USA, 28–35. DOI:https://doi.org/10.1145/266420.266430
